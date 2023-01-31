@@ -1,2 +1,2 @@
-# Project-1
-My first project for Coding Dojo's part-time Data Science bootcamp.
+# Forecasting Food Sales
+A project forecasting/predicting food sales.
