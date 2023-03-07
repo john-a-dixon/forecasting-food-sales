@@ -22,11 +22,13 @@ The bar graph below shows that location correlates with sales. It's not that loc
 
 ### Outlet Type & Sales
 
-The bar graph below shows that the type of outlet correlates significantly correlates with sales. Like above, it's not that outlet type causes better sales though it's very important that an outlet considers what type they are if they wish to likelier have higher sales. It's apparently that Grocery Stores make the least while Supermarket Type 3 outlets are bound to make a good amount. Of course, this is all according to this dataset and it could be that the dataset just so happened to have the highest earning Supermarket Type 3 stores and the lowest earning Grocery Stores.
+The bar graph below shows that the type of outlet correlates significantly correlates with sales. Like above, it's not that outlet type causes better sales though it's very important that an outlet considers what type they are if they wish to likelier have higher sales. It's apparent that **Grocery Store** outlets make the least while **Supermarket Type 3** outlets are bound to make a good amount. 
 
 <p align="center">
   <img src="/assets/typevsales.png" width="60%" height="60%">
 </p>
+
+Of course, this is all according to this dataset and it could be that the dataset just so happened to have the highest earning Supermarket Type 3 stores and the lowest earning Grocery Stores. Though, just judging by this dataset, I'd say an outlet who is of **Supermarket Type 3** and in location **Tier 2** is likely to make a good sales.
 
 ## Model & Metrics
 
