@@ -14,13 +14,16 @@ The primary insights garnered from my analysis deal with outlet location, outlet
 
 ### Outlet Location & Sales
 
-The bar graph below shows that location correlates with sales. I cannot say location choice causes better sales though I can say that if an outlet chooses a location of **Tier 2** they may likely have better sales.
+The bar graph below shows that location correlates with sales. It's not that location choise causes better sales though I can say that if an outlet chooses a location of **Tier 2** they _may_ likely have better sales.
 
 <p align="center">
   <img src="/assets/locationvsales.png" width="60%" height="60%">
 </p>
 
 ### Outlet Type & Sales
+
+The bar graph below shows that the type of outlet correlates significantly correlates with sales.
+
 <p align="center">
   <img src="/assets/typevsales.png" width="60%" height="60%">
 </p>
