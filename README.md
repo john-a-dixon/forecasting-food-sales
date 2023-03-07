@@ -14,9 +14,7 @@ The primary insights garnered from my analysis deal with outlet location, outlet
 
 The bar graph below shows that location correlates with sales. I cannot say location choice causes better sales though I can say that if an outlet chooses a location of **Tier 2** they may likely have better sales.
 
-<div width="60px" height="60px">
-![Location v. Sales](/assets/locationvsales.png "Location v. Sales")
-</div>
+<img src="/assets/locationvsales.png" width="60" height="60">
 
 ### Outlet Type & Sales
 ![Type v. Sales](/assets/typevsales.png "Type v. Sales")
