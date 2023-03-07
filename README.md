@@ -32,15 +32,15 @@ Of course, this is all according to this dataset and it could be that the datase
 
 ## Model & Metrics
 
-I testing out two machine learning models: linear regression (LRM) and decision tree regression (DTRM). A quick summary of each is as follows:
+For future sales predictions, I tested out two machine learning models: linear regression and decision tree regression. A quick error metric summary of each is as follows:
 
 - Linear Regression
-    - R<sup>2</sup>: %
-    - MAE: $
-    - RMSE: $
+    - R<sup>2</sup>: 0.5806 (58.06%)
+    - MAE: $789.25
+    - RMSE: $1067.66
 - Decision Tree Regression
-    - R2<sup>2</sup>: %
-    - MAE: $
-    - RMSE: $
+    - R2<sup>2</sup>: 0.6114 (61.14%)
+    - MAE: $721.64
+    - RMSE: $1027.73
 
 ## Final Recommendations
