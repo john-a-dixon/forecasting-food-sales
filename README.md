@@ -2,6 +2,8 @@
 
 _John Andrew Dixon_
 
+---
+
 ## Overview
 
 The goal is to analyze past sales data to find relationships that can hopefully optimize an outlet's future sales and help them make better financial choices.
@@ -19,7 +21,9 @@ The bar graph below shows that location correlates with sales. I cannot say loca
 </p>
 
 ### Outlet Type & Sales
-![Type v. Sales](/assets/typevsales.png "Type v. Sales")
+<p align="center">
+  <img src="/assets/typevsales.png" width="60%" height="60%">
+</p>
 
 ## Model & Metrics
 
