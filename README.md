@@ -16,7 +16,7 @@ The bar graph below shows that location correlates with sales. I cannot say loca
 
 <div style="width:60px ; height:60px">
 ![Location v. Sales](/assets/locationvsales.png "Location v. Sales")
-<div>
+</div>
 
 ### Outlet Type & Sales
 ![Type v. Sales](/assets/typevsales.png "Type v. Sales")
