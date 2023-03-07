@@ -43,4 +43,6 @@ For future sales predictions, I tested out two machine learning models: linear r
     - MAE: $721.64
     - RMSE: $1027.73
 
+In summary, the decision tree produced better predictive results than the linear regression. But, the decision tree's predictive capabilities are still suspect. It can only account for 61.14% of the variations within the target prediction. That is pretty mediocre, and is especially bad when it comes to money. Likewise, its high RMSE means that it produces larger errors. Once again, bad when it comes to money.
+
 ## Final Recommendations
