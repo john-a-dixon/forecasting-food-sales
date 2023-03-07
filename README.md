@@ -32,4 +32,15 @@ Of course, this is all according to this dataset and it could be that the datase
 
 ## Model & Metrics
 
+I testing out two machine learning models: linear regression (LRM) and decision tree regression (DTRM). A quick summary of each is as follows:
+
+- Linear Regression
+    - R<sup>2</sup>: %
+    - MAE: $
+    - RMSE: $
+- Decision Tree Regression
+    - R2<sup>2</sup>: %
+    - MAE: $
+    - RMSE: $
+
 ## Final Recommendations
