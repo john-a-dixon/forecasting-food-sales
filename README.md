@@ -34,15 +34,23 @@ Of course, this is all according to this dataset and it could be that the datase
 
 For future sales predictions, I tested out two machine learning models: linear regression and decision tree regression. A quick error metric summary of each is as follows:
 
-- Linear Regression
-    - R<sup>2</sup>: 0.5806 (58.06%)
-    - MAE: $789.25
-    - RMSE: $1067.66
-- Decision Tree Regression
-    - R2<sup>2</sup>: 0.6114 (61.14%)
-    - MAE: $721.64
-    - RMSE: $1027.73
+- **_Linear Regression_**
+    - _R<sup>2</sup>_: 0.5806 (58.06%)
+    - _MAE_: $789.25
+    - _RMSE_: $1067.66
+- **_Decision Tree Regression_**
+    - _R2<sup>2</sup>_: 0.6114 (61.14%)
+    - _MAE_: $721.64
+    - _RMSE_: $1027.73
 
 In summary, the decision tree produced better predictive results than the linear regression. But, the decision tree's predictive capabilities are still suspect. It can only account for 61.14% of the variations within the target prediction. That is pretty mediocre, and is especially bad when it comes to money. Likewise, its high RMSE means that it produces larger errors. Once again, bad when it comes to money.
 
 ## Final Recommendations
+
+I have a few recommendations:
+
+1. If an outlet has a choice of location and type choose a location of **Tier 2** and a type of **Supermarket Type 3**. Though these may not necessarily cause the outlet to generate more food sales, something about them may likely help the outlet gain more sales.
+2. Get a better dataset if predictions want to be made. Or, find a better machine learning model to make predictions. Or, do both. I say this for a few reasons:
+    - The predictive analysis I did (see above) had two models with poor predictive power. Maybe trying a different model will change this and offer better metrics.
+    - It's possible that the machine learning models are not the problem and the dataset .is the problem. That is, the dataset itself, no matter the model, may not produce good predictions. In this case, a better dataset should be used.
+
